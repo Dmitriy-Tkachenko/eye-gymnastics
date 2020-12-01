@@ -10,7 +10,7 @@
 
 
 ## Индивидуальные планы работы
-* [Ткаченко Д.А.](https://github.com/Dmitriy-Tkachenko/pd/blob/master/reports/tkachenko.md)
-* [Малиновская К.В.](https://github.com/Dmitriy-Tkachenko/pd/blob/master/reports/ulitushkin.md)
+* [Ткаченко Д.А.](https://github.com/Dmitriy-Tkachenko/eye-gymnastics/blob/master/reports/Tkachenko.md)
+* [Малиновская К.В.](https://github.com/Dmitriy-Tkachenko/eye-gymnastics/blob/master/reports/Malinovskaya.md)
 
 ## Отчет
