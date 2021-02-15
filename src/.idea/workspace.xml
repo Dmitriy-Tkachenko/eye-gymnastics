@@ -20,16 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="575e4a59-60ac-4940-a9e8-53609dead001" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docs/10. Разотрите ладони до тепла и прикройте ими глаза, скрестив пальцы на середине лба, так чтобы не сдавливались глаза и не просачивался свет.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docs/15. Поднесите палец к переносице, сфокусируйтесь на нем и медленно отдаляйте палец от глаз, при этом продолжая на нем фокусироваться. Выполните 3 повторения.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docs/16. Поднесите палец к переносице, сфокусируйтесь на нем на 3 секунды и резко переведите взгляд на любой объект вдалеке также на 3 секунды. Выполните 5 повторений.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docs/18. Прикройте рукой левый глаз и продолжайте рассматривать объекты на протяжении 30 секунд.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docs/19. Прикройте рукой правый глаз и продолжайте рассматривать объекты на около 30 секунд.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docs/8. Смотрите вдаль около 20 секунд.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docs/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docs/Главное изображение.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../reports/Отчет.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,15 +35,14 @@
       </list>
     </option>
   </component>
-  <component name="GOROOT" path="$PROJECT_DIR$/../../../../../Program Files/Go" />
+  <component name="GOROOT" path="$PROJECT_DIR$/../../../../Program Files/Go" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
   </component>
   <component name="ProjectId" id="1l0kN85bP0FG3GjcbUYIoksdnjJ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -61,8 +52,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,9 +74,21 @@
     <integration-enabled>true</integration-enabled>
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="273" key="FileChooserDialogImpl" timestamp="1609614370589">
+    <state x="92" y="92" width="1736" height="852" key="DiffContextDialog" timestamp="1612137458712">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
-    <state x="740" y="273" key="FileChooserDialogImpl/0.0.1920.1036@0.0.1920.1036" timestamp="1609614370589" />
+    <state x="92" y="92" width="1736" height="852" key="DiffContextDialog/0.0.1920.1036@0.0.1920.1036" timestamp="1612137458712" />
+    <state x="740" y="273" key="FileChooserDialogImpl" timestamp="1612048122406">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state x="740" y="273" key="FileChooserDialogImpl/0.0.1920.1036@0.0.1920.1036" timestamp="1612048122406" />
+    <state x="734" y="242" key="com.goide.refactor.move.GoMoveDeclarationDialog" timestamp="1612389897422">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state x="734" y="242" key="com.goide.refactor.move.GoMoveDeclarationDialog/0.0.1920.1036@0.0.1920.1036" timestamp="1612389897422" />
+    <state x="803" y="279" key="refactoring.ChangeSignatureDialog" timestamp="1612389895051">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state x="803" y="279" key="refactoring.ChangeSignatureDialog/0.0.1920.1036@0.0.1920.1036" timestamp="1612389895051" />
   </component>
 </project>
