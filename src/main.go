@@ -36,7 +36,9 @@ func processingPhrasesAndClicks(r marusia.Request) (resp marusia.Response) {
 
 func processingSimpleUtterance(r marusia.Request) (resp marusia.Response) {
 	switch r.Request.Command {
-	case marusia.OnStart:
+	case "запусти навык гимнастика для глаз", "включи навык гимнастика для глаз", "открой навык гимнастика для глаз", "хочу навык гимнастика для глаз",
+		"запусти скилл гимнастика для глаз", "включи скилл гимнастика для глаз", "открой скилл гимнастика для глаз", "хочу скилл гимнастика для глаз",
+		"запусти skill гимнастика для глаз", "включи skill гимнастика для глаз", "открой skill гимнастика для глаз", "хочу skill гимнастика для глаз":
 		resp = processingOnStart(resp)
 	case "5", "пять", "5 минут", "пять минут":
 		resp = processingCommandFiveMin(resp)
